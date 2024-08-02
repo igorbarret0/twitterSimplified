@@ -2,7 +2,6 @@
   Twitter Simplificado
 </h1>
 
-Este projeto consiste na criptografia de dados sensivéis no cadastro de usuários utilizando o algoritmo de hash SHA512
 ## Tecnologias
 
 - [Spring Boot](https://spring.io/projects/spring-boot)
